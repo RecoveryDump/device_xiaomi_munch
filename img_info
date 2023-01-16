@@ -1,0 +1,8 @@
+boot magic: ANDROID!
+kernel_size: 50614288
+ramdisk size: 49374830
+os version: 13.0.0
+os patch level: 2099-12
+boot image header version: 3
+command line args: twrpfastboot=1
+ramdisk format: gzip
